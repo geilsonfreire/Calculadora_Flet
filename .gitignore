@@ -1,4 +1,4 @@
-# Ignorar a pasta lib
+# Ignorar a pastas específicas
 lib/
 build/
 dist/
